@@ -4,12 +4,12 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Home-automation-using-nodemcu-8266
 
 Describe your project
 
 == Step 1: Installation
-Please describe the steps to install this project.
+With Prior installation of Arduino.exe, use the file provided above to upload it to the nodemcu 826
 
 For example:
 
@@ -39,7 +39,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a {License} License.
 
 === Contributing
-To contribute to this project please contact: 
+To contribute to this project please contact: kamalesh555go@gmail.com
 
 === BOM
 Add the bill of the materials you need for this project.
